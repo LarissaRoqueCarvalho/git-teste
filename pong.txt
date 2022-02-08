@@ -1,4 +1,4 @@
-raquete 1
+raquete 1.0
 raquete 2
 bola
 loop
