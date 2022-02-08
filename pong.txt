@@ -5,3 +5,6 @@ loop
 etx
 mudança 2
 cu
+
+alteração na mecanica()
+correção de bugs
