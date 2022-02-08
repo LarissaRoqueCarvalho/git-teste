@@ -4,3 +4,4 @@ bola
 loop
 etx
 mudança 2
+cu
